@@ -232,7 +232,7 @@ s/          <-- this means it should perform a substitution
     sed -e :a -e '/\\$/N; s/\\\n//; ta'
    ```
    
-   # if a line begins with MATCH, append it to the previous line and replace MATCH with space
+   ### if a line begins with MATCH, append it to the previous line and replace MATCH with space
    ```bash
     sed -e :a -e '$!N;s/\nMATCH/ /;ta' -e 'P;D'
    ```
