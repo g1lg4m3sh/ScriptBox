@@ -8,7 +8,7 @@ Often in our daily work we encounter the need to run stuff in CLI - and too ofte
 - [VI](#vi-tricks)
 - [bash](#bash-tricks)
 - [regex](#regex-tricks)
-- [tcpdump](#tmpdump)
+- [tcpdump](#tcpdump)
 - [BackBox](#backbox-specific)
 - [Check Point](#check-point-tricks)
 - [Misc](#miscellaneous)
